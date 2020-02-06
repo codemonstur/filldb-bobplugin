@@ -16,7 +16,7 @@
 
         <dependency>
             <groupId>com.github.codemonstur</groupId>
-            <artifactId>bobthebuilder</artifactId>
+            <artifactId>bobthebuildtool</artifactId>
             <version>0.1.0</version>
             <scope>provided</scope>
         </dependency>

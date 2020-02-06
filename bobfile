@@ -1,9 +1,13 @@
 name: bobfilldb
 version: 0.1.0
 dependencies:
-  - project: ../bobthebuilder
+  - project: ../bobthebuildtool
     scope: provided
   - project: ../filldb
+
+build
+	  echo "[${PROJECT_NAME}] Building"
+    run-target -i build
 
 release-notes
   	echo "[${PROJECT_NAME}] Writing release notes to src/docs/releases/release-${PROJECT_VERSION}.txt"
