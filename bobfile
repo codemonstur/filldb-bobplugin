@@ -1,5 +1,5 @@
 name: bobfilldb
-version: 0.2.2
+version: 0.2.3
 release: 11
 dependencies:
   - project: ../bobthebuildtool
