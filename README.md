@@ -1,9 +1,7 @@
 
-[![Build Status](https://travis-ci.org/codemonstur/benthemanager-bobplugin.svg?branch=master)](https://travis-ci.org/codemonstur/benthemanager)
 [![GitHub Release](https://img.shields.io/github/release/codemonstur/benthemanager-bobplugin.svg)](https://github.com/codemonstur/benthemanager/releases) 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.codemonstur/benthemanager-bobplugin/badge.svg)](http://mvnrepository.com/artifact/com.github.codemonstur/benthemanager)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-# Bob Ben-The-Manager plugin
+# Bob FillDB plugin
 
-A plugin for bob that runs ben the manager.
+A plugin for bob that runs filldb.
