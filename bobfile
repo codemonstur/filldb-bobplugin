@@ -2,7 +2,6 @@ include https://raw.githubusercontent.com/codemonstur/bobfiles/master/foss-app-g
 
 name: bobfilldb
 version: 3
-release: 11
 packaging: bob-plugin
 enablePreview: false
 dependencies:
